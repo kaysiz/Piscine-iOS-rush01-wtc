@@ -11,5 +11,8 @@ target 'rush01' do
   pod 'GoogleMaps'
   pod 'GoogleMapsDirections'
   pod 'GooglePlacesAPI'
+  pod 'GooglePlaces'
+  pod 'GooglePlacesAPI'
+  pod 'SwiftyJSON'
 
 end
