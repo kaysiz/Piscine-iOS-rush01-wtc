@@ -26,7 +26,6 @@ DEPENDENCIES:
   - GoogleMapsDirections
   - GooglePlaces
   - GooglePlacesAPI
-  - SwiftyJSON
 
 SPEC REPOS:
   trunk:
@@ -49,6 +48,6 @@ SPEC CHECKSUMS:
   ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
   SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
 
-PODFILE CHECKSUM: 799ccaa2d73ddc02bf398b4dabf31e8608bb59eb
+PODFILE CHECKSUM: 1cb31b2e3c47f0ed6e439b7284a7d893efee29c2
 
 COCOAPODS: 1.8.4
